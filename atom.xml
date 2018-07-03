@@ -186,8 +186,6 @@
     
       <category term="C++" scheme="qiujian.xyz/tags/C/"/>
     
-      <category term="传热" scheme="qiujian.xyz/tags/%E4%BC%A0%E7%83%AD/"/>
-    
       <category term="QT" scheme="qiujian.xyz/tags/QT/"/>
     
       <category term="SQL Server" scheme="qiujian.xyz/tags/SQL-Server/"/>
@@ -195,6 +193,8 @@
       <category term="OpenGL" scheme="qiujian.xyz/tags/OpenGL/"/>
     
       <category term="OpenCV" scheme="qiujian.xyz/tags/OpenCV/"/>
+    
+      <category term="传热" scheme="qiujian.xyz/tags/%E4%BC%A0%E7%83%AD/"/>
     
       <category term="力学" scheme="qiujian.xyz/tags/%E5%8A%9B%E5%AD%A6/"/>
     
